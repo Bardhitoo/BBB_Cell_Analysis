@@ -31,10 +31,7 @@ Finally, the pipeline finds the orientation of each cell with respect to x-axis 
 
 <div style="text-align:center">
 <img src="figs/FIG_6_1-after flow-4x.png" width="400">
-
-<img src="figs/FIG_7_1-after flow-4x.png" width="400"> 
-
-<img src="figs/FIG_8_1-after flow-4x.png" width="400"> 
+<img src="figs/FIG_7_1-after flow-4x.png" width="227"> <img src="figs/FIG_8_1-after flow-4x.png" width="400"> 
 </div>
 
 Overall, this pipeline provides a powerful tool for analyzing cell images, enabling researchers to identify individual cells and gain insights into their orientation.
