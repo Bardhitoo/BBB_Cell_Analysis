@@ -145,6 +145,8 @@ saveas(gcf ,sprintf('figs/FIG_%d_%s.png',fig_id, filename));
 sanity_checker = labeloverlay(im_gray, bw, 'Transparency',0.25);
 figure, imshow(sanity_checker)
 title("PROCESSED: Segmented out cells: " + n)
+fig_id = fig_id + 1;
+saveas(gcf ,sprintf('figs/FIG_%d_%s.png',fig_id, filename));
 %% 
 %
 % Find orientation
