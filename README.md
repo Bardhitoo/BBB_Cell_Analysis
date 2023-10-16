@@ -1,10 +1,10 @@
 # BBB_Cell_Analysis
 Image processing pipeline to segment and analyze blood-brain-barrier (BBB) cell images
 
-##Problem
+## Problem
 The goal of the pipeline is to segment, identify individual cells in the image, and analyse orientation - this information is important to measure cells' flexibility and strength when external flow is introduced. 
 
-##Solution
+## Solution
 
 The pipeline begins by reading in the input image and displaying it. Then, the pipeline applies histogram equalization to enhance contrast and better distinguish cell features. This processed image is displayed and saved.
 
